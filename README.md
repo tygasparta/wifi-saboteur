@@ -1,3 +1,17 @@
+#####                                                  
+#     #   ##   #####   ####  ##### ###### #    # #####  
+#        #  #  #    # #    #   #   #      #    # #    # 
+ #####  #    # #####  #    #   #   #####  #    # #    # 
+      # ###### #    # #    #   #   #      #    # #####  
+#     # #    # #    # #    #   #   #      #    # #   #  
+ #####  #    # #####   ####    #   ######  ####  #    # 
+                          Version 1.0
+                      Coded By Tyga Sparta
+           https://github.com/tygasparta/wifi-saboteur
+
+[*] Scanning for available Wi-Fi networks...
+
+
 # WiFi Saboteur
 
 A Bash script for Kali Linux to deactivate devices connected to a Wi-Fi network. This tool allows you to scan for available Wi-Fi networks, select a target network, and deactivate all or specific devices connected to it.
