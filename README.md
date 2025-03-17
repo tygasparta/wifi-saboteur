@@ -1,16 +1,15 @@
-#####                                                  
+ #####                                                  
 #     #   ##   #####   ####  ##### ###### #    # #####  
 #        #  #  #    # #    #   #   #      #    # #    # 
  #####  #    # #####  #    #   #   #####  #    # #    # 
       # ###### #    # #    #   #   #      #    # #####  
 #     # #    # #    # #    #   #   #      #    # #   #  
  #####  #    # #####   ####    #   ######  ####  #    # 
+
+                                                        
                           Version 1.0
                       Coded By Tyga Sparta
            https://github.com/tygasparta/wifi-saboteur
-
-[*] Scanning for available Wi-Fi networks...
-
 
 # WiFi Saboteur
 
