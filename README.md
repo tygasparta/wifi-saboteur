@@ -136,7 +136,7 @@ Wait for completion:
 [!] Deactivating all devices on Network1...
 [+] Cleaning up and exiting...
 ```
-
+Top Cancel or Stop the Process click CTRL + C
 ---
 
 ## Developer
