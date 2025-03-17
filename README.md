@@ -28,3 +28,6 @@ A Bash script for Kali Linux to deactivate devices connected to a Wi-Fi network.
 Clone the repository to your local machine:
 ```bash
 git clone https://github.com/tygasparta/wifi-saboteur.git
+
+
+
