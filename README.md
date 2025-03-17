@@ -1,7 +1,7 @@
 
                                                         
                           Version 1.0
-                      Coded By Tyga Sparta
+                      Developed By Tyga Sparta
            https://github.com/tygasparta/wifi-saboteur
 
 # WiFi Saboteur
